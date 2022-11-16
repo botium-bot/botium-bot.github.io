@@ -5,6 +5,12 @@
     background-color: #222226;
 }
 
+/* Button */
+
+button {
+    text-align: center;
+}
+
 /* Partie Concernant La NavBar */
 
 span {
@@ -31,10 +37,14 @@ nav {
     color: green;
 }
 
-/* Button */
+/* Contact */
 
-a button {
-    align-items: center;
-    align-content: center;
-    align-self: center;
+#p ul {
+    list-style: none;
+    text-align: center;
+}
+
+#p ul a {
+    color: green;
+    text-decoration: none;
 }
