@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+
+* {
+    font-family: 'Source Code Pro', monospace;
+    background-color: #222226;
+}
+
+/* Partie Concernant La NavBar */
+
+span {
+    color: blue;
+}
+
+nav {
+    justify-content: space-between;
+    display: flex;
+    padding-top: 35px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#wrap ul li {
+    display: inline-block;
+    text-align: right;
+    list-style: none;
+    padding: 10px 20px;
+}
+
+#wrap ul li a {
+    text-decoration: none;
+    color: green;
+}
+
+/* Button */
+
+a button {
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
