@@ -5,6 +5,23 @@
     background-color: #222226;
 }
 
+/* Temporary Noel */
+
+#last {
+    text-align: center;
+}
+
+a.gift {
+    color: black;
+    text-decoration: none;
+}
+
+/* Copyright */
+
+.copy {
+    color: red;
+}
+
 /* Button */
 
 button {
@@ -14,7 +31,7 @@ button {
 /* Navbar */
 
 span {
-    color: blue;
+    color: green;
 }
 
 nav {
